@@ -15,7 +15,7 @@ header {
 .rotacion{
     width: 150px;
     height: 150px;
-    border-radius: 20px;
+    border-radius: 50px;
     animation: rotacion 5s linear infinite;
 }
 @keyframes rotacion {
